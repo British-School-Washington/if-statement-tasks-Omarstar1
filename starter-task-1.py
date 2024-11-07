@@ -3,12 +3,16 @@ number = int(input("Enter an integer: "))
 
 # if the number is positive
 if number > 0:
-    # TODO: print positive message here
+    print("number is greater than 0")
 
 # if the number is negative
 elif number < 0:
-    # TODO: print negative message here
+    print("number is lower than 0")
 
 # if the number is zero
 else:
-    # TODO: print zero message here
+    print("number is 0")
+
+
+
+
