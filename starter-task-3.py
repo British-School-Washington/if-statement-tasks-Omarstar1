@@ -3,8 +3,8 @@ age = int(input("Enter your age: "))
 
 # if the user is eligible to vote (age 18 or older)
 if age >= 18:
-    # TODO: Print a message saying they are eligible to vote
+    print("you can vot")
 
 # if the user is not eligible to vote (under 18)
 else:
-    # TODO: Print a message saying they are not eligible to vote
+    print("you cant vot")
